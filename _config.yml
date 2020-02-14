@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b> by <b><a href=\"https://github.com/niklasbuschmann\">@niklasbuschmann</a></b>"
+title: "plauche.github.io"
+author: "ryan plauche"
+description: "Hello Internet"
 permalink: /:title/
 lang: "en"
 date_format: "%B %d, %Y"
@@ -22,11 +22,11 @@ minimal: false               # use simpler style
 
 navigation:
   - {file: "index.html", icon: home}
-  - {file: "README.md", icon: address-card}
+  - {file: "about.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:ryan.plauche@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/plauche"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
