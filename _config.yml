@@ -1,6 +1,6 @@
 title: "plauche.github.io"
-author: "ryan plauche"
-description: "Hello Internet"
+author: "Ryan Plauche"
+description: "Hello there"
 permalink: /:title/
 lang: "en"
 date_format: "%B %d, %Y"
@@ -25,9 +25,9 @@ navigation:
   - {file: "about.md", icon: address-card}
 
 external:                    # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ryan.plauche@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/plauche"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/ryan-plauche-235b021/"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/plauplauplau"}
 
 comments:
 #  disqus: ""                # see https://disqus.com/
